@@ -11,22 +11,21 @@ This Python-based project simulates a venue booking system where clubs request v
 - Simulates realistic venue booking and approval workflow
 - Detects and prevents double bookings
 - Modular OOP design for ease of extension
-- Email notifications simulated via `smtplib`
 - Real-time admin interaction through console
 
 ## ⚙️ Technologies Used
 
 - **Python 3.x**
-- `smtplib` – Simulated email notifications
+- `pandas` – working with data and files
 - `datetime` – Time-based simulation of booking slots
 - `random` – (Optional) Future use for request variability
+- `os` – For accessing files
 
 ## 🧱 System Architecture
 
 - **Club Module:** Initiates booking requests
 - **Venue Module:** Maintains schedule and checks availability
 - **Admin Module:** Approves or rejects requests
-- **Email Module:** Sends approval status (simulated)
 
 
 ## 📝 How to Run
@@ -40,7 +39,6 @@ This Python-based project simulates a venue booking system where clubs request v
 - Web-based frontend using React
 - Admin dashboard for real-time management
 - Integration with Flask/Node.js backend
-- Real time approval via email.
 
 ## 🙌 Acknowledgements
 
