@@ -3,3 +3,6 @@ Time,Club,Venue,Status,Day,Date,TimeSlot
 0,acm,LT-1,Approved,monday,2025-05-04,09:00-13:30
 0,acm,LT-1,Rejected (Conflict),monday,2025-05-04,09:00-11:00
 0,ieee,LT-1,Rejected (Conflict),monday,2025-05-04,09:00-10:00
+0,acm,LT-1,Approved,monday\,2025-05-04,09:00-13:30
+0,acm,LT-1,Rejected (Admin),monday,2025-05-04,17:00-20:00
+0,ieee,LT-1,Rejected (Conflict),monday,2025-05-04,09:00-11:00
