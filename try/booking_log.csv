@@ -1,0 +1,7 @@
+time,club,venue,status,day,date,time_slot,event,admin_comment
+2025-05-04 16:50:51,ACM,LT-1,Submitted,monday,2025-05-01,09:00-11:00,Speaker talk,
+2025-05-04 16:51:50,ACM,LT-1,Approved,monday,2025-05-01,09:00-11:00,Speaker talk,
+2025-05-04 17:02:27,IEEE,LT-2,Submitted,monday,2025-05-02,09:00-11:00,abc,
+2025-05-04 17:02:54,IEEE,LT-2,Rejected,monday,2025-05-02,09:00-11:00,abc,mann nahi hai
+2025-05-04 17:09:36,TIEDC,LT-1,Submitted,monday,2025-05-21,09:00-13:00,iic,
+2025-05-04 17:10:08,TIEDC,LT-1,Approved,monday,2025-05-21,09:00-13:00,iic,fhah

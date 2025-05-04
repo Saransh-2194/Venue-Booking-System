@@ -1,0 +1,4 @@
+id,club,event_name,contact_email,day,date,time_slot,venue,expected_attendance,purpose,status,submitted_at,processed_at,admin_comment
+1,ACM,Speaker talk,sgafh@gmail.com,monday,2025-05-01,09:00-11:00,LT-1,100,speaker session,Approved,2025-05-04 16:50:51,2025-05-04 16:51:50,
+2,IEEE,abc,agag@gmail.com,monday,2025-05-02,09:00-11:00,LT-2,150,speaker session,Rejected,2025-05-04 17:02:27,2025-05-04 17:02:54,mann nahi hai
+3,TIEDC,iic,df@sga.com,monday,2025-05-21,09:00-13:00,LT-1,100,boardroom,Approved,2025-05-04 17:09:36,2025-05-04 17:10:08,fhah
